@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hey there, a citizen of Github!
+### I'm Anyll Markevich, and I'm **not** a professional programmer.
 
 <!--
 **gallus-gallus/gallus-gallus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
