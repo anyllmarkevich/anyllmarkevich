@@ -13,7 +13,7 @@ These are the languages I've worked with:
 
 Although I'm still very much in the process of improving at coding, I hope to ultimately combine my skillset in biology with strong foundations in computer science to achieve scientific, academic, and conservation goals.
 ### What am I up to?
-- Senior-year Environmental Studies Studies at Prescott College
+- Senior-year Environmental Studies Student at Prescott College
 - Single semester non-degree student at the University of Colorado Boulder to take more advanced math, physics, and statistics classes than are available at Prescott
 - Working on my senior project, a [population dynamics simulation tool](https://github.com/gallus-gallus/EcolysisCMD)
 - Looking for a PhD program!
