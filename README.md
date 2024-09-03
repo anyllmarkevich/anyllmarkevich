@@ -1,5 +1,6 @@
 # Hey there, a citizen of Github!
-### I'm Anyll Markevich, and I'm **not** a professional programmer.
+### I am an Environmental Studies student aspiring to a career in behavioral ecology.
+Behavioral ecology is the intersection of how animal behavior influences ecological function and vis versa, whether on long (evolutionary) or short timescales.
 
 <!--
 **gallus-gallus/gallus-gallus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
