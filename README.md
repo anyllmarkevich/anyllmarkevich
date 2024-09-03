@@ -10,6 +10,7 @@ These are the languages I've worked with:
 - Swift
 - Java
 - Spotty uses of HTML, SQL, etc
+
 Although I'm still very much in the process of improving at coding, I hope to ultimately combine my skillset in biology with strong foundations in computer science to achieve scientific, academic, and conservation goals.
 ### What am I up to?
 - Senior-year Environmental Studies Studies at Prescott College
