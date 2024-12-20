@@ -10,7 +10,7 @@ These are the languages I've worked with: **Rust, Python, R, Swift, Java**, and 
 - Single-year non-degree student at the University of Colorado Boulder
 - Working on a [population dynamics simulation tool](https://github.com/gallus-gallus/EcolysisCMD)
 
-I recently applied to ecology Ph.D. programs! You can read my [academic CV](https://github.com/gallus-gallus/gallus-gallus/blob/5ba4ec6953a3cbd1f191ac280378af573953d975/Anyll%20Markevich%20CV.pdf) (not a resume) for details on my research experience and broader background.
+I recently applied to ecology Ph.D. programs! You can read my [academic CV](https://github.com/anyllmarkevich/anyllmarkevich/blob/400356c13b979b90125229d805b7f4c5202be41c/Anyll%20Markevich%20CV.pdf) (not a resume) for details on my research experience and broader background.
 ### Other Skills and Stuff
 - GIS (QGIS & System for Automated Geoscientific Analyses)
 - Wildlife Photography
