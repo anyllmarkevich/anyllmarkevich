@@ -1,5 +1,5 @@
 # Hey there, fellow citizen of Github!
-### I am an Environmental Studies student aspiring to a career in behavioral ecology.
+### I am an environmental studies student aspiring to a career in behavioral ecology.
 Behavioral ecology is the intersection of animal behavior and ecological function, whether on long (evolutionary) or short timescales. I am particularly interested in inter-trophic interactions (species interaction between carnivores and prey), the impacts of animal behavior on vegetation structure, the effects of environmental factors on animal behavior, and adaptation to climate change. However, my interests extend past pure science into conservation issues, especially community conservation.
 ### What am I doing on GitHub, then?
 I find coding fascinating and enjoyable, and programming has already repeatedly served me well in my line of work. I've used code to streamline data entry via a GUI during fieldwork, manage and clean up data during analysis, create GIS maps, and (now) create population modeling tools for small conservation teams. I plan to use my (improving) coding skills in combination with my biology background to further my explorations of GIS, theoretical ecology, and modeling.
