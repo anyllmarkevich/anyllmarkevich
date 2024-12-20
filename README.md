@@ -10,7 +10,7 @@ These are the languages I've worked with: **Rust, Python, R, Swift, Java**, and 
 ### What am I up to?
 - Senior-year Bachelor of Science Environmental Studies Student at Prescott College (graduating May 2025)
 - Single-year non-degree student at the University of Colorado Boulder
-- Working on a [population dynamics simulation tool](https://github.com/anyllmarkevich/EcolysisCMD)
+- Working on a [population dynamics simulation tool](https://github.com/anyllmarkevich/Ecolysis)
 
 I recently applied to ecology Ph.D. programs! You can read my [academic CV](https://github.com/anyllmarkevich/anyllmarkevich/blob/400356c13b979b90125229d805b7f4c5202be41c/Anyll%20Markevich%20CV.pdf) (not a resume) for details on my research experience and broader background.
 ### Other Skills and Stuff
