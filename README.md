@@ -5,6 +5,8 @@ Behavioral ecology is the intersection of animal behavior and ecological functio
 I find coding fascinating and enjoyable, and programming has already repeatedly served me well in my line of work. I've used code to streamline data entry via a GUI during fieldwork, manage and clean up data during analysis, create GIS maps, and (now) create population modeling tools for small conservation teams. I plan to use my (improving) coding skills in combination with my biology background to further my explorations of GIS, theoretical ecology, and modeling.
 
 These are the languages I've worked with: **Rust, Python, R, Swift, Java**, and spotty uses of HTML, SQL, etc.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyllmarkevich&layout=compact&theme=onedark)
 ### What am I up to?
 - Senior-year Bachelor of Science Environmental Studies Student at Prescott College (graduating May 2025)
 - Single-year non-degree student at the University of Colorado Boulder
