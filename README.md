@@ -2,17 +2,15 @@
 ### I am an Environmental Studies student aspiring to a career in behavioral ecology.
 Behavioral ecology is the intersection of animal behavior and ecological function, whether on long (evolutionary) or short timescales. I am particularly interested in inter-trophic interactions (species interaction between carnivores and prey), the impacts of animal behavior on vegetation structure, the effects of environmental factors on animal behavior, and adaptation to climate change. However, my interests extend past pure science into conservation issues, especially community conservation.
 ### What am I doing on GitHub, then?
-I am interested in many topics unrelated to my field of study (my YouTube watch history is full of random space stuff). However, code is more than a side interest as it serves me extensively in my line of work. I've used code to streamline data entry via a GUI during fieldwork, managed and cleaned up data during analysis, created GIS maps, and am now creating population modeling tools for small conservation teams. 
+I find coding fascinating and enjoyable, and programming has already repeatedly served me well in my line of work. I've used code to streamline data entry via a GUI during fieldwork, manage and clean up data during analysis, create GIS maps, and (now) create population modeling tools for small conservation teams. I plan to use my (improving) coding skills in combination with my biology background to further my explorations of GIS, theoretical ecology, and modeling.
 
 These are the languages I've worked with: **Rust, Python, R, Swift, Java**, and spotty uses of HTML, SQL, etc.
-
-Although I'm still in the process of improving at coding, I plan to combine my biology skillset with strong foundations in computer science to achieve scientific, academic, and conservation goals.
 ### What am I up to?
-- Senior-year Environmental Studies Student at Prescott College (graduating May 2025)
+- Senior-year Bachelor of Science Environmental Studies Student at Prescott College (graduating May 2025)
 - Single-year non-degree student at the University of Colorado Boulder
 - Working on a [population dynamics simulation tool](https://github.com/gallus-gallus/EcolysisCMD)
 
-I recently applied to ecology Ph.D. programs! You can read my [academic CV](https://github.com/gallus-gallus/gallus-gallus/blob/5ba4ec6953a3cbd1f191ac280378af573953d975/Anyll%20Markevich%20CV.pdf) (not a resume).
+I recently applied to ecology Ph.D. programs! You can read my [academic CV](https://github.com/gallus-gallus/gallus-gallus/blob/5ba4ec6953a3cbd1f191ac280378af573953d975/Anyll%20Markevich%20CV.pdf) (not a resume) for details on my research experience and broader background.
 ### Other Skills and Stuff
 - GIS (QGIS & System for Automated Geoscientific Analyses)
 - Wildlife Photography
