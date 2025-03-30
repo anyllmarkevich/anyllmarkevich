@@ -6,7 +6,7 @@ I find coding fascinating and enjoyable, and programming has already repeatedly 
 
 These are the languages I've worked with: **Rust, Python, R, Swift, Java**, and spotty uses of HTML, SQL, etc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyllmarkevich&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyllmarkevich&layout=compact&theme=github_dark)
 ### What am I up to?
 - Senior-year Bachelor of Science Environmental Studies Student at Prescott College (graduating May 2025)
 - Single-year non-degree student at the University of Colorado Boulder
