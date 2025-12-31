@@ -1,18 +1,17 @@
-# Hey there, fellow citizen of Github!
-### I am an environmental studies student aspiring to a career in behavioral ecology.
-Behavioral ecology is the intersection of animal behavior and ecological function, whether on long (evolutionary) or short timescales. I am particularly interested in inter-trophic interactions (species interaction between carnivores and prey), the impacts of animal behavior on vegetation structure, the effects of environmental factors on animal behavior, and adaptation to climate change. However, my interests extend past pure science into conservation issues, especially community conservation.
-### What am I doing on GitHub, then?
-I find coding fascinating and enjoyable, and programming has already repeatedly served me well in my line of work. I've used code to streamline data entry via a GUI during fieldwork, manage and clean up data during analysis, create GIS maps, and (now) create population modeling tools for small conservation teams. I plan to use my (improving) coding skills in combination with my biology background to further my explorations of GIS, theoretical ecology, and modeling.
+## Hey there, fellow citizen of Github!
+I am an aspiring ecologist and evolutionary biologist focusing on multi-scale interactions and the intersection of theory and empirical research. Lately, I've become fascinated by the processes linking complex behavioral traits with population-level evolution. Additional interests include inter-trophic interactions, impacts of animal behavior on vegetation structure, environmental influences on animal behavior, and adaptation to climate change.
 
-These are the languages I've worked with: **Rust, Python, R, Swift, Java**, and spotty uses of HTML, SQL, etc.
+In addition to these research interests, I'm passionate about education and science communication, and I am committed to advancing conservation, especially through community-based conservation. Ultimately, I hope to become a professor to advance research while supporting and empowering the next generation of scientists and changemakers.
+## Current Activities
+I am currently a part-time Education Data Analyst at the University of Colorado Boulder, where I collect and analyze data on student educational outcomes to improve teaching methodology.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyllmarkevich&layout=compact&theme=github_dark)
-### What am I up to?
-- Senior-year Bachelor of Science Environmental Studies Student at Prescott College (graduating May 2025)
-- Single-year non-degree student at the University of Colorado Boulder
-- Working on a [population dynamics simulation tool](https://github.com/anyllmarkevich/Ecolysis)
+I recently received a Bachelor of Science in Environmental Studies from Prescott College (which included a year of coursework at CU Boulder), and I am currently seeking graduate school opportunities.
+### Programming Experience
+I've used code to streamline data entry via a GUI during fieldwork, manage and clean up data during analysis, and create GIS maps, in addition to numerous experimental and hobby projects. I continue to use these skills in my current work!
 
-I recently applied to ecology Ph.D. programs! You can read my [academic CV](https://github.com/anyllmarkevich/anyllmarkevich/blob/400356c13b979b90125229d805b7f4c5202be41c/Anyll%20Markevich%20CV.pdf) (not a resume) for details on my research experience and broader background.
+These are the languages I've worked with: **R, Rust, Python, Swift, Bash, Java**, and spotty uses of HTML, SQL, etc.
+### Background
+You can read my [academic CV](https://github.com/anyllmarkevich/anyllmarkevich/blob/400356c13b979b90125229d805b7f4c5202be41c/Anyll%20Markevich%20CV.pdf) (not a resume) for details on my research experience and broader background.
 ### Other Skills and Stuff
 - GIS (QGIS & System for Automated Geoscientific Analyses)
 - Wildlife Photography
