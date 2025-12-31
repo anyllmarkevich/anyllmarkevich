@@ -11,7 +11,7 @@ I've used code to streamline data entry via a GUI during fieldwork, manage and c
 
 These are the languages I've worked with: **R, Rust, Python, Swift, Bash, Java**, and spotty uses of HTML, SQL, etc.
 ### Background
-You can read my [academic CV](https://github.com/anyllmarkevich/anyllmarkevich/blob/400356c13b979b90125229d805b7f4c5202be41c/Anyll%20Markevich%20CV.pdf) (not a resume) for details on my research experience and broader background.
+You can read my [academic CV](https://github.com/anyllmarkevich/anyllmarkevich/blob/4222800e21241fa5f3e7a86be6bcd6ee7956d548/Anyll%20Markevich%20CV%20(Dec%202025).pdf) (not a resume) for details on my research experience and broader background.
 ### Other Skills and Stuff
 - GIS (QGIS & System for Automated Geoscientific Analyses)
 - Wildlife Photography
