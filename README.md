@@ -5,7 +5,7 @@ In addition to these research interests, I'm passionate about education and scie
 ## Current Activities
 I am currently a part-time Education Data Analyst at the University of Colorado Boulder, where I collect and analyze data on student educational outcomes to improve teaching methodology.
 
-I recently received a Bachelor of Science in Environmental Studies from Prescott College (which included a year of coursework at CU Boulder), and I am currently seeking graduate school opportunities.
+I recently received a Bachelor of Science in Environmental Studies from Prescott College (which included a year of coursework at CU Boulder).
 ### Programming Experience
 I've used code to streamline data entry via a GUI during fieldwork, manage and clean up data during analysis, and create GIS maps, in addition to numerous experimental and hobby projects. I continue to use these skills in my current work!
 
